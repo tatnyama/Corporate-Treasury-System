@@ -1,0 +1,2 @@
+transaction_date,value_date,narration,ref_number,debit_amount,credit_amount,tax_percentage,tax_amount,type,debit_type,credit_type,account_name,created_by,created_at,statement_id,id
+2024-01-15,2024-01-15,Office Supplies,INV1001,500,0,15,75,Debit,Other,,CBZ Account One,admin,2024-01-15,,TXN001
